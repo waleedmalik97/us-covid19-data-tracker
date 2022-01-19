@@ -14,9 +14,9 @@ The second section consist of two dropdown menus for selecting State and County,
 
 ## Dataset Utilized:
 
-COVID-19 Vaccinations in the United States,Jurisdiction: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc
-COVID-19 Vaccinations in the United States,County: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
-United States COVID-19 County Level of Community Transmission as Originally Posted: https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Level-of-Community-T/8396-v7yb
+COVID-19 Vaccinations in the United States,Jurisdiction: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc <br/>
+COVID-19 Vaccinations in the United States,County: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh <br/>
+United States COVID-19 County Level of Community Transmission as Originally Posted: https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-County-Level-of-Community-T/8396-v7yb <br/>
 
 
 https://user-images.githubusercontent.com/31138706/150209244-2699b6e5-6e7b-4ddd-947a-5e950b3e6560.mp4
