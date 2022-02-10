@@ -20,7 +20,12 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.MORPH],meta_tags=[
-        {"name": "viewport", "content": "width=device-width, initial-scale=1"}
+        {"name": "viewport", "content": "width=device-width, initial-scale=1"},
+        {"property": "og:title", "content": "US Covid-19 Data Tracker"},
+        {"property": "og:type", "content": "website"},
+        {"property": "og:url", "content": "https://us-covid19-data-tracker.herokuapp.com/"},
+        {"property": "og:image","content": "https://live.staticflickr.com/65535/51873940928_b4d749444d_k.jpg"},
+        {"property": "og:description", "content": "A data visualization dashboard showing the covid-19 spread and vaccination progress in the US."}
     ])
 app.title = "US Covid-19 Data Tracker"
 server = app.server
